@@ -9,9 +9,9 @@ The workshop will include interactive seminars given by selected experts in the 
 
 ## **Tentative schedule:**   
 *SEMINAR 1:*  Markus (Aref) -- ADD TITLE   
-*SEMINAR 2:*   Michal (25 min) -- An introduction to version control, Git, Datald    
+*SEMINAR 2:*   Michał (25 min) -- An introduction to version control, Git, DataLad    
             Joanes (15 min) -- Working with container and robust data structure (BIDS)   
-*HANDS-ON 1:* Michal (Aref, Markus, Joanes) -- ADD TITLE   
+*HANDS-ON 1:* Michał (Aref, Markus, Joanes) -- Data Management for Neuroimaging with DataLad   
 
 
 SEMINAR 3 OR HANDS-ON 2   

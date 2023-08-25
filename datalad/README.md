@@ -1,7 +1,7 @@
 # The DataLad part
 
 This folder contains a Jupyter notebook with the DataLad walkthrough.
-The notebook uses Bash kernel.
+The notebook uses [Bash kernel](https://github.com/takluyver/bash_kernel).
 
 To run the notebook, you need to have **DataLad** and its external dependencies, **Git** and **git-annex** installed.
 Several installation methods are available, and are covered in [DataLad handbook](https://handbook.datalad.org/en/latest/intro/installation.html#install) or on [DataLad's website](https://www.datalad.org/#install).

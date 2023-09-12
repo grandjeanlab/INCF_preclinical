@@ -18,4 +18,4 @@ The workshop will include interactive seminars given by selected experts in the 
 *HANDS-ON 1 (1 h):* Michał (Aref, Markus, Joanes) -- Data Management for Neuroimaging with DataLad   
 
 *HANDS-ON 2 (2 hrs): Application of image post-processing pipelines RABIES/AIDAmri*   
-Markus/Aref (AIDAmri), Gabriel/Joanes (RABIES)
+Markus/Aref ([**AIDAmri**](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop)), Gabriel/Joanes (RABIES)

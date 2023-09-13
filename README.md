@@ -12,10 +12,12 @@ The workshop will include interactive seminars given by selected experts in the 
 
 *SEMINAR 1 (20 min):*  Markus/Aref -- How to set up a FAIR workflow for multimodal rodent imaging data in a no-code environment of a translational stroke lab
 
-*SEMINAR 2 (40 min):*  Michał (25 min) -- An introduction to version control, Git, DataLad    
-            Joanes (15 min) -- Working with container and robust data structure (BIDS)   
+*SEMINAR 2 (25 min):*  Michał -- An introduction to version control, Git, DataLad  
+
+*SEMINAR 3 (15 min):* Joanes -- Working with robust data structure (BIDS) and containers (Docker / Apptainer)  
 
 *HANDS-ON 1 (1 h):* Michał (Aref, Markus, Joanes) -- Data Management for Neuroimaging with DataLad   
 
-*HANDS-ON 2 (2 hrs): Application of image post-processing pipelines RABIES/AIDAmri*   
-Markus/Aref ([**AIDAmri**](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop)), Gabriel/Joanes (RABIES)
+*HANDS-ON 2 (2 hrs):* Two breakout rooms:    
+Breakout room (carpet) 1: Markus/Aref -- Application of image post-processing pipelines RABIES/AIDAmri.([**AIDAmri**](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop))   
+Breakout room (carpet) 2: Gabriel/Joanes -- Rodent functional MRI preprocessing with RABIES Gabriel/Joanes. ([**RABIES**](https://github.com/CoBrALab/RABIES))

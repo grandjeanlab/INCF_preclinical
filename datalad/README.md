@@ -34,3 +34,7 @@ pip install black nilearn matplotlib
 
 Many users prefer using conda to install DataLad, Git, and Git-annex (which does not preclude using pip for other dependencies).
 Feel free to adjust accordingly.
+
+## Slides
+
+Accompanying slides can be found at https://mslw.github.io/Neuroinformatics2023-slides/workshop.html

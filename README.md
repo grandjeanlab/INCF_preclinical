@@ -16,7 +16,7 @@ The workshop will include interactive seminars given by selected experts in the 
 
 *SEMINAR 3 (15 min):* Joanes -- Working with robust data structure (BIDS) and containers (Docker / Apptainer)  
 
-*HANDS-ON 1 (1 h):* Michał (Aref, Markus, Joanes) -- Data Management for Neuroimaging with DataLad   
+*HANDS-ON 1 (1 h):* Michał (Aref, Markus) -- Data Management for Neuroimaging with DataLad   
 
 *HANDS-ON 2 (2 hrs):* Two breakout rooms:    
 Breakout room (carpet) 1: Markus/Aref -- Application of image post-processing pipelines RABIES/AIDAmri.([**AIDAmri**](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop))   

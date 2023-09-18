@@ -19,7 +19,7 @@ The workshop will include interactive seminars given by selected experts in the 
 *HANDS-ON 1 (1 h):* Michał (Aref, Markus) -- Data Management for Neuroimaging with DataLad   
  
 *HANDS-ON 2 (2 hrs):* Two breakout rooms:    
-Breakout room (carpet) 1: Markus/Aref -- [Application of image post-processing pipeline AIDAmri.(https://github.com/grandjeanlab/INCF_preclinical/blob/main/presentations/INCF_Workshop_2023_v2_Handson2_GitHub.pdf) 
+Breakout room (carpet) 1: Markus/Aref -- [Application of image post-processing pipeline AIDAmri.](https://github.com/grandjeanlab/INCF_preclinical/blob/main/presentations/INCF_Workshop_2023_v2_Handson2_GitHub.pdf) 
 [**Link to AIDAmri**](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop)   
 Breakout room (carpet) 2: Gabriel/Joanes -- Rodent functional MRI preprocessing with RABIES. ([**Link to RABIES**](https://github.com/CoBrALab/RABIES))
 

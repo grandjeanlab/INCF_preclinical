@@ -17,10 +17,10 @@ The workshop will include interactive seminars given by selected experts in the 
 *SEMINAR 3 (15 min):* Joanes -- Working with robust data structure (BIDS) and containers (Docker / Apptainer)  
 
 *HANDS-ON 1 (1 h):* Michał (Aref, Markus) -- Data Management for Neuroimaging with DataLad   
-
-*[HANDS-ON 2](https://github.com/grandjeanlab/INCF_preclinical/blob/main/presentations/INCF_Workshop_2023_v2_Handson2_GitHub.pdf) (2 hrs):* Two breakout rooms:    
-Breakout room (carpet) 1: Markus/Aref -- Application of image post-processing pipelines RABIES/AIDAmri.([**AIDAmri**](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop))   
-Breakout room (carpet) 2: Gabriel/Joanes -- Rodent functional MRI preprocessing with RABIES Gabriel/Joanes. ([**RABIES**](https://github.com/CoBrALab/RABIES))
+ 
+*HANDS-ON 2 (2 hrs):* Two breakout rooms:    
+Breakout room (carpet) 1: Markus/Aref -- Application of image post-processing pipeline AIDAmri.([**AIDAmri**](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop))   
+Breakout room (carpet) 2: Gabriel/Joanes -- Rodent functional MRI preprocessing with RABIES. ([**RABIES**](https://github.com/CoBrALab/RABIES))
 
 ## **Software recommendations**
 1. Software   

@@ -29,6 +29,16 @@ https://hub.docker.com/r/gabdesgreg/rabies selecting tag number 0.4.8
 </details>
 
 <details>
+<summary>Participating to the AIDAmri hands-on demo</summary>
+
+There will be a hands-on demonstration of the AIDAmri software broadcasted during the workshop. It will be possible to follow along from your computer if you install the prerequesites. The following will be required:
+* [Jupyter Notebook](https://jupyter.org/install)
+* [Docker](https://docs.docker.com/get-docker/)
+* [Download AIDAmri](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop) as described in the Docker_manual.pdf
+
+</details>
+
+<details>
 <summary>Participating to the RABIES hands-on demo</summary>
 
 There will be a hands-on demonstration of the RABIES software broadcasted during the workshop. It will be possible to follow along from your computer if you install the prerequesites. The following will be required:

@@ -28,7 +28,15 @@ Questionnaire for the participants [Link to Google Form](https://docs.google.com
 https://hub.docker.com/r/gabdesgreg/rabies selecting tag number 0.4.8
 </details>
 
+<details>
+<summary>Participating to the RABIES hands-on demo</summary>
 
+There will be a hands-on demonstration of the RABIES software broadcasted during the workshop. It will be possible to follow along from your computer if you install the prerequesites. The following will be required:
+* [Jupyter Notebook](https://jupyter.org/install) (to open notebooks)
+* [Docker](https://docs.docker.com/get-docker/), and pulling RABIES version 0.4.8 with `docker pull gabdesgreg/rabies:0.4.8` (make sure to have ~10Gb of free space)
+* Download this github repository; the required notebooks and files are all include in the rabies/ folder. You can download the repo manually by clicking on "code -> download ZIP", or from a terminal using git with `git clone https://github.com/grandjeanlab/INCF_preclinical`.
+
+</details>
 
 ## **Schedule:**   
 *Welcome:* Markus/Joanes

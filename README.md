@@ -10,7 +10,7 @@ The workshop will include interactive seminars given by selected experts in the 
 ## **Schedule:**   
 *Welcome:* Markus/Joanes
 
-*[SEMINAR 1](https://github.com/grandjeanlab/INCF_preclinical/blob/main/presentations/INCF_Workshop_2023_v2_Seminar1_GitHub.pdf) (20 min):*  Markus/Aref -- How to set up a FAIR workflow for multimodal rodent imaging data in a no-code environment of a translational stroke lab
+*SEMINAR 1 (20 min):*  Markus/Aref -- How to set up a FAIR workflow for multimodal rodent imaging data in a no-code environment of a translational stroke lab. [Slides](https://github.com/grandjeanlab/INCF_preclinical/blob/main/presentations/INCF_Workshop_2023_v2_Seminar1_GitHub.pdf)
 
 *SEMINAR 2 (25 min):*  Michał -- An introduction to version control, Git, DataLad  
 
@@ -20,8 +20,8 @@ The workshop will include interactive seminars given by selected experts in the 
  
 *HANDS-ON 2 (2 hrs):* Two breakout rooms:    
 Breakout room (carpet) 1: Markus/Aref -- Application of image post-processing pipeline AIDAmri. [Slides](https://github.com/grandjeanlab/INCF_preclinical/blob/main/presentations/INCF_Workshop_2023_v2_Handson2_GitHub.pdf) 
-([**Link to AIDAmri**](https://github.com/Aswendt-Lab/AIDAmri/blob/workshop/AIDAmri_workshop.ipynb))   
-Breakout room (carpet) 2: Gabriel/Joanes -- Rodent functional MRI preprocessing with RABIES. ([**Link to RABIES**](https://github.com/CoBrALab/RABIES))
+([**Link to GitHub AIDAmri**](https://github.com/Aswendt-Lab/AIDAmri/blob/workshop/AIDAmri_workshop.ipynb))   
+Breakout room (carpet) 2: Gabriel/Joanes -- Rodent functional MRI preprocessing with RABIES. ([**Link to GitHub RABIES**](https://github.com/CoBrALab/RABIES))
 
 ## **Software recommendations**
 1. Software   

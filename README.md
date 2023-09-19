@@ -16,6 +16,7 @@ Questionnaire for the participants [Link to Google Form](https://docs.google.com
 1. Software   
 1.1 [Anaconda](https://www.anaconda.com/download)   
 1.2 [Jupyter Notebook](https://jupyter.org/install)     
+1.2.1 [Bash kernel](https://github.com/takluyver/bash_kernel) for Jupyter Notebook   
 1.3 [Datalad](https://handbook.datalad.org/en/latest/intro/installation.html)    
 1.4 [GIN client](https://gin.g-node.org/G-Node/Info/wiki/GIN+CLI+Setup)   
 1.5 [Docker](https://docs.docker.com/get-docker/)   
@@ -53,7 +54,7 @@ There will be a hands-on demonstration of the RABIES software broadcasted during
 
 *SEMINAR 1 (20 min):*  Markus/Aref -- How to set up a FAIR workflow for multimodal rodent imaging data in a no-code environment of a translational stroke lab. [Slides](https://github.com/grandjeanlab/INCF_preclinical/blob/main/presentations/INCF_Workshop_2023_v2_Seminar1_GitHub.pdf)
 
-*SEMINAR 2 (25 min):*  Michał -- An introduction to version control, Git, DataLad  
+*SEMINAR 2 (25 min):*  Michał -- An introduction to version control, Git, DataLad.  Slides: [pdf](https://github.com/grandjeanlab/INCF_preclinical/blob/main/presentations/INCF_Workshop_2023_v2_Seminar2_DataLad.pdf), [html](https://mslw.github.io/Neuroinformatics2023-slides/workshop.html).
 
 *SEMINAR 3 (15 min):* Joanes -- Working with robust data structure (BIDS) and containers (Docker / Apptainer)  
 

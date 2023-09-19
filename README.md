@@ -34,7 +34,7 @@ https://hub.docker.com/r/gabdesgreg/rabies selecting tag number 0.4.8
 There will be a hands-on demonstration of the AIDAmri software broadcasted during the workshop. It will be possible to follow along from your computer if you install the prerequesites. The following will be required:
 * [Jupyter Notebook](https://jupyter.org/install)
 * [Docker](https://docs.docker.com/get-docker/)
-* [Download AIDAmri](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop) as described in the Docker_manual.pdf
+* [Download AIDAmri](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop) and proceed with building the container as described in the Docker_manual.pdf
 
 </details>
 

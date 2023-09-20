@@ -35,7 +35,9 @@ https://hub.docker.com/r/gabdesgreg/rabies selecting tag number 0.4.8
 There will be a hands-on demonstration of the AIDAmri software broadcasted during the workshop. It will be possible to follow along from your computer if you install the prerequisites. The following will be required:
 * [Jupyter Notebook](https://jupyter.org/install)
 * [Docker](https://docs.docker.com/get-docker/)
-* [Download AIDAmri](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop) with `git clone -b workshop \ https://github.com/aswendtlab/AIDAmri.git` and proceed with building the container as described in the Docker_manual.pdf
+* [Git bash](https://gitforwindows.org/) (for Windows only, in git bash type `. PATH\TO\ANACONDA\Scripts\activate`)
+* Clone the AIDAmri GitHub repository in terminal/git bash with `git clone https://github.com/Aswendt-Lab/AIDAmri.git` or alternatively download and unpack the zip file. Change to the AIDAmri folder. 
+* Start the Jupyter Notebook "AIDAmri_workshop.ipynb" in terminal/git bash with `jupyter notebook` and follow the instructions in the notebook
 
 </details>
 

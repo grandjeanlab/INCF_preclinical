@@ -36,7 +36,8 @@ There will be a hands-on demonstration of the AIDAmri software broadcasted durin
 * [Jupyter Notebook](https://jupyter.org/install)
 * [Docker](https://docs.docker.com/get-docker/)
 * [Git bash](https://gitforwindows.org/) (for Windows only, in git bash type `. PATH\TO\ANACONDA\Scripts\activate`)
-* Clone the AIDAmri GitHub repository in terminal/git bash with `git clone https://github.com/Aswendt-Lab/AIDAmri.git` or alternatively download and unpack the zip file. Change to the AIDAmri folder. 
+* Clone the AIDAmri GitHub repository in terminal/git bash with `git clone https://github.com/Aswendt-Lab/AIDAmri.git` or alternatively download and unpack the zip file. Change to the AIDAmri folder.
+* [Download the test dataset](https://gin.g-node.org/pallastn/AIDA_dataset/raw/master/testData.zip) and unpack into the AIDAmri folder. 
 * Start the Jupyter Notebook "AIDAmri_workshop.ipynb" in terminal/git bash with `jupyter notebook` and follow the instructions in the notebook
 
 </details>

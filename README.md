@@ -32,7 +32,7 @@ https://hub.docker.com/r/gabdesgreg/rabies selecting tag number 0.4.8
 <details>
 <summary>Participating to the AIDAmri hands-on demo</summary>
 
-There will be a hands-on demonstration of the AIDAmri software broadcasted during the workshop. It will be possible to follow along from your computer if you install the prerequesites. The following will be required:
+There will be a hands-on demonstration of the AIDAmri software broadcasted during the workshop. It will be possible to follow along from your computer if you install the prerequisites. The following will be required:
 * [Jupyter Notebook](https://jupyter.org/install)
 * [Docker](https://docs.docker.com/get-docker/)
 * [Download AIDAmri](https://github.com/Aswendt-Lab/AIDAmri/tree/workshop) and proceed with building the container as described in the Docker_manual.pdf
@@ -42,7 +42,7 @@ There will be a hands-on demonstration of the AIDAmri software broadcasted durin
 <details>
 <summary>Participating to the RABIES hands-on demo</summary>
 
-There will be a hands-on demonstration of the RABIES software broadcasted during the workshop. It will be possible to follow along from your computer if you install the prerequesites. The following will be required:
+There will be a hands-on demonstration of the RABIES software broadcasted during the workshop. It will be possible to follow along from your computer if you install the prerequisites. The following will be required:
 * [Jupyter Notebook](https://jupyter.org/install) (to open notebooks)
 * [Docker](https://docs.docker.com/get-docker/), and pulling RABIES version 0.4.8 with `docker pull gabdesgreg/rabies:0.4.8` (make sure to have ~10Gb of free space)
 * Download this github repository; the required notebooks and files are all include in the rabies/ folder. You can download the repo manually by clicking on "code -> download ZIP", or from a terminal using git with `git clone https://github.com/grandjeanlab/INCF_preclinical`.

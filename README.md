@@ -68,4 +68,5 @@ Breakout room (carpet) 1: Markus/Aref -- Application of image post-processing pi
 ([**Link to GitHub AIDAmri**](https://github.com/Aswendt-Lab/AIDAmri/blob/workshop/AIDAmri_workshop.ipynb))   
 Breakout room (carpet) 2: Gabriel/Joanes -- Rodent functional MRI preprocessing with RABIES. ([**Link to GitHub RABIES**](https://github.com/CoBrALab/RABIES))
 
-
+## **Survey:**
+This workshop was hopefully only the start of a series of workshops and hackathons related to small animal MRI. Therefore we need your help and want to hear your opinion => [short survey](https://forms.gle/faRcN8vt9FoR42bV7). THANKS!

@@ -1,5 +1,7 @@
 # RABIES tutorial
 
+\*\*\* **the latest version of this tutorial is stored on the CoBrALab repo https://github.com/CoBrALab/RABIES_tutorial**
+
 * tutorial_notebook.ipynb: main notebook of the tutorial. With a series of shell commands, will execute each stage of the pipeline on the token dataset.
 * process_test_dataset.ipynb: documents the commands used to process the [test_dataset/](https://zenodo.org/record/8349029) and generate the QC outputs found in test_dataset_QC/.
 * token_dataset/: a fake dataset regrouping low resolution images, which can be used to quickly test the execution of the pipeline.
